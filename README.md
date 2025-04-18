@@ -28,7 +28,7 @@ Dans cet atelier, tu vas :
 ## 🚀 Lancer l’atelier
 
 Clique ici pour lancer le notebook **en ligne sans rien installer** :  
-👉 [🚀 Ouvrir l'atelier dans Binder](https://mybinder.org/v2/gh/edenimal-goy/Lionnes2025_calibration_musique/HEAD?urlpath=%2Fdoc%2Ftree%2Fatelier_calibration_musique.ipynb)
+👉 [🚀 Ouvrir l'atelier dans Binder](https://mybinder.org/v2/gh/edenimal-goy/Lionnes2025_calibration_musique/main?filepath=atelier_calibration_musique.ipynb)
 
 ---
 
