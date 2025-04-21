@@ -35,7 +35,7 @@ Clique ici pour lancer le notebook **en ligne sans rien installer** :
 ## ✨ Pour aller plus loin
 
 À la fin de l’atelier, tu auras vu :
-- Comment les scientifiques ajustent des modèles
+- Comment **calibrer un modèle**
 - Ce qu’est le **bruit dans les données**
 - Une introduction à la **descente de gradient** (optimisation automatique)
 
@@ -45,8 +45,6 @@ Et tout ça... à partir du **tempo des musiques** 🎵💡
 
 ## 👩‍🔬 Un atelier imaginé pour des lycéennes
 
-Ce projet a été conçu dans le cadre d’un atelier de découverte scientifique à destination de jeunes femmes curieuses de science, de code, et de créativité.
+Ce projet a été conçu dans le cadre d’un atelier de découverte scientifique pour la semaine Lionnes 2025.
 
----
 
-🎁 Bon atelier, amuse-toi bien et… fais vibrer les données !
